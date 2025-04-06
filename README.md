@@ -1,16 +1,80 @@
-## Hi there 👋
+# 👋 Welcome to PhoenixAnvil Labs
 
-<!--
-**PhoenixAnvil/PhoenixAnvil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Jason — a QA Engineer, Toolmaker, and lifelong learner on a 5-year mission to build smarter systems, deeper skills, and handcrafted software one project at a time.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 What I’m Building
+
+🎯 I’m creating a portfolio of over **200+ focused developer tools** — each one thoughtfully designed, tested, and documented. Every project is built with real-world practices: versioning, issue tracking, test coverage, and docs.
+
+Each tool lives in its own GitHub repo, is tracked in Jira (under a unified workflow), and supported with documentation via Confluence and Sphinx.
+
+---
+
+## ⚙️ Core Technologies
+
+- 🐍 Python + FastAPI
+- 🗃️ PostgreSQL
+- 🧪 Pytest + Xray (QA-focused development)
+- 🐚 Bash scripting, Regex, CLI tools
+- 📚 Sphinx, Markdown, and reStructuredText
+- 🧠 Jira, Confluence, Aha! Roadmaps
+
+---
+
+## 🧰 Recent Tools
+
+- 🔧 [**Stride**](https://github.com/PhoenixAnvil/stride) – Sprint/Iteration Tracker API  
+- ✏️ [**Scribbly**](https://github.com/PhoenixAnvil/scribbly) – User Story Management API  
+- 🔍 [**Sentinel**](https://github.com/PhoenixAnvil/sentinel) – API Monitoring + Load Testing CLI  
+- 🧵 [**Thumper**](https://github.com/PhoenixAnvil/thumper) – HTTP Ping Tool for APIs  
+- 🔐 [**KeyForge**](https://github.com/PhoenixAnvil/keyforge) – Secure Password Generator CLI
+
+Each tool is tracked via Jira epics, includes automated and manual testing, and has a roadmap in Aha! with full QA/test alignment.
+
+---
+
+## 🎯 Current Focus
+
+📚 I’m currently in **certification sprint mode**, preparing for the ISTQB CTFL (QA Certification) scheduled for **April 15, 2025**.  
+Until then, I’ll be in **low-power commit mode**—maintaining my GitHub streak with meaningful but lighter contributions each day.
+
+🛠️ I actively use:
+- **Jira** for issue tracking and sprint management
+- **Confluence** for documentation and knowledge sharing
+- **Aha! Roadmaps** to manage product visions and strategic planning for each tool
+
+> 🚀 My full Jira, Confluence, and Aha! setup is available for walkthroughs or demos upon request—for recruiters, collaborators, and hiring managers.
+
+---
+
+## 📚 What’s Ahead
+
+- 🐧 LPIC-1 Linux Certification (May 7, 2025)
+- 🧪 Deeper QA Automation (Playwright, Selenium, Appium)
+- 🛠️ Building out 50+ Python/FastAPI tools for my portfolio
+- 🚀 PyPI packaging and CLI test frameworks
+- 📦 Real-world CI/CD, GitHub Actions, and versioning
+
+---
+
+## 🧠 What Drives Me
+
+- ✅ Real tools > tutorials  
+- ✅ Clean code + logs + tests = confidence  
+- ✅ Progress > perfection  
+- ✅ Sharpening the craft every day
+
+---
+
+## 📫 Let’s Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jason-alan-smith)
+- 💬 Want a walkthrough of my development workflow in Jira, Confluence, and Aha!?  
+  Feel free to reach out:  
+  📧 **jason.alan.smith@outlook.com**
+
+---
+
+> Built at **PhoenixAnvil Labs** – Where ideas are forged into tools. 🔥🛠️
