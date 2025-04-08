@@ -23,6 +23,16 @@ Each tool lives in its own GitHub repo, is tracked in Jira (under a unified work
 
 ---
 
+## 🔧 Dev Workflow Overview
+
+I’ve documented my full development process—from sprint planning and time tracking to commit practices and QA workflows—right here:
+
+👉 [View the PhoenixAnvil Labs Dev Workflow Documentation](https://jasonasmith.atlassian.net/wiki/external/ODRmNmVkMTMyYjk0NGU3ODkzYmI0ODhiZmExNTBkZDM)
+
+This public Confluence doc walks through how I work with tools like Jira, Tempo, Confluence, GitHub, Sphinx, and Aha! Roadmaps to build professional-grade tools and systems.
+
+---
+
 ## 🧰 Recent Tools
 
 - 🔧 [**Stride**](https://github.com/PhoenixAnvil/stride) – Sprint/Iteration Tracker API  
