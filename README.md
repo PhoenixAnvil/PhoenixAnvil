@@ -51,7 +51,7 @@ Each tool is tracked via Jira epics, includes automated and manual testing, and 
 
 ## 🎯 Current Focus
 
-📚 I’m currently in **certification sprint mode**, preparing for the ISTQB CTFL (QA Certification) scheduled for **April 15, 2025**.  
+📚 I’m currently in **certification sprint mode**, preparing for the ISTQB CTFL (QA Certification) scheduled for **April 30, 2025**.  
 Until then, I’ll be in **low-power commit mode**—maintaining my GitHub streak with meaningful but lighter contributions each day.
 
 🛠️ I actively use:
@@ -65,7 +65,7 @@ Until then, I’ll be in **low-power commit mode**—maintaining my GitHub strea
 
 ## 📚 What’s Ahead
 
-- 🐧 LPIC-1 Linux Certification (May 7, 2025)
+- 🐧 LPIC-1 Linux Certification (May 28, 2025)
 - 🧪 Deeper QA Automation (Playwright, Selenium, Appium)
 - 🛠️ Building out 50+ Python/FastAPI tools for my portfolio
 - 🚀 PyPI packaging and CLI test frameworks
