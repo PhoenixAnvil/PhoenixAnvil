@@ -87,7 +87,7 @@ Until then, I’ll be in **low-power commit mode**—maintaining my GitHub strea
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jason-alan-smith)
 - 💬 Want a walkthrough of my development workflow in Jira, Confluence, and Aha!?  
   Feel free to reach out:  
-  📧 **jason.alan.smith@outlook.com**
+  📧 **Jason.Smith@phoenixanvilabs.dev**
 
 ---
 
