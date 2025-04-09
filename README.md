@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="PhoenixAnvilLabsLogo.png" alt="PhoenixAnvil Labs Logo" width="300">
+</p>
+
 # 👋 Welcome to PhoenixAnvil Labs
 
 Hi, I'm Jason — a QA Engineer, Toolmaker, and lifelong learner on a 5-year mission to build smarter systems, deeper skills, and handcrafted software one project at a time.
