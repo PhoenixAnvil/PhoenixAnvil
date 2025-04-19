@@ -63,6 +63,36 @@ Until then, I’ll be in **low-power commit mode**—maintaining my GitHub strea
 
 ---
 
+### 🧾 Commit Standards – Conventional Commits
+
+All repositories under PhoenixAnvil Labs follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification.
+
+We use clear, structured commit messages to:
+- 🧠 Improve readability and project history
+- 📦 Automate changelogs and versioning
+- 🔧 Enable consistent CI/CD workflows
+
+Common commit types include:
+
+- `feat:` – New feature  
+- `fix:` – Bug fix  
+- `docs:` – Documentation only  
+- `test:` – Adding or refactoring tests  
+- `refactor:` – Internal code improvements  
+- `chore:` – Build process, tooling, config  
+- `style:` – Formatting, whitespace, linter changes  
+- `perf:` – Performance improvements  
+
+Example:
+
+```
+feat: add –length flag to CLI for password length
+```
+
+For a full list of types and usage, visit [conventionalcommits.org](https://www.conventionalcommits.org/).
+
+---
+
 ### 🔢 Versioning Philosophy
 
 All PhoenixAnvil Labs tools follow [Semantic Versioning 2.0.0](https://semver.org/).
