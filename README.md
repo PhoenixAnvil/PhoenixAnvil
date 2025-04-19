@@ -63,6 +63,16 @@ Until then, I’ll be in **low-power commit mode**—maintaining my GitHub strea
 
 ---
 
+### 🔢 Versioning Philosophy
+
+All PhoenixAnvil Labs tools follow [Semantic Versioning 2.0.0](https://semver.org/).
+
+We treat versions as a contract with users: predictable, incremental, and clearly communicated.
+
+For release patterns and development workflow, see our [Documentation Portal](https://jasonasmith.atlassian.net/wiki/external/ODRmNmVkMTMyYjk0NGU3ODkzYmI0ODhiZmExNTBkZDM).
+
+---
+
 ## 📚 What’s Ahead
 
 - 🐧 LPIC-1 Linux Certification (May 28, 2025)
