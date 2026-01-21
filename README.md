@@ -82,7 +82,6 @@ AI helps me move faster — **human judgment owns the strategy, validation, and 
 - Strengthening **performance testing fundamentals**
 - Building **production-style CI/CD pipelines**
 - Improving test reliability, observability, and maintainability
-- Preparing for **ISTQB CTFL** (Spring 2025)
 
 ---
 
@@ -100,7 +99,7 @@ AI helps me move faster — **human judgment owns the strategy, validation, and 
 
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/jason-alan-smith  
 - 💬 Happy to walk through any repo, workflow, or test strategy
-- 📧 **Email:** Jason.Smith@phoenixanvillabs.dev
+- 📧 **Email:** jason.alan.smith@outlook.com
 
 ---
 
