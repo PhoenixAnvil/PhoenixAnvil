@@ -1,134 +1,108 @@
 <p align="center">
-  <img src="PhoenixAnvilLabsLogo.png" alt="PhoenixAnvil Labs Logo" width="300">
+  <img src="PhoenixAnvilLabsLogo.png" alt="PhoenixAnvil Labs Logo" width="260">
 </p>
 
 # 👋 Welcome to PhoenixAnvil Labs
 
-Hi, I'm Jason — a QA Engineer, Toolmaker, and lifelong learner on a 5-year mission to build smarter systems, deeper skills, and handcrafted software one project at a time.
+Hi, I’m **Jason** — a Senior Quality Assurance Engineer with 20+ years of experience, a strong manual QA foundation, and a deep interest in modern test engineering, APIs, performance, and CI/CD.
+
+This GitHub profile represents my **hands-on learning and portfolio work**, where I explore modern QA practices through small, focused, real-world projects.
 
 ---
 
 ## 🧪 What I’m Building
 
-🎯 I’m creating a portfolio of over **200+ focused developer tools** — each one thoughtfully designed, tested, and documented. Every project is built with real-world practices: versioning, issue tracking, test coverage, and docs.
+🎯 I’m building a **curated portfolio of QA-focused projects** that demonstrate how I approach quality in modern systems:
 
-Each tool lives in its own GitHub repo, is tracked in Jira (under a unified workflow), and supported with documentation via Confluence and Sphinx.
+- API design and validation
+- Functional and regression testing
+- Performance and load testing
+- CI/CD orchestration
+- Cloud-hosted systems
 
----
-
-## ⚙️ Core Technologies
-
-- 🐍 Python + FastAPI
-- 🗃️ PostgreSQL
-- 🧪 Pytest + Xray (QA-focused development)
-- 🐚 Bash scripting, Regex, CLI tools
-- 📚 Sphinx, Markdown, and reStructuredText
-- 🧠 Jira, Confluence, Aha! Roadmaps
+Each project is intentionally scoped, documented, and tested — emphasizing **clarity, correctness, and real-world workflows**, not tutorial code.
 
 ---
 
-## 🔧 Dev Workflow Overview
+## 🧰 Current Portfolio Highlights
 
-I’ve documented my full development process—from sprint planning and time tracking to commit practices and QA workflows—right here:
+### 🔹 Demo API (SUT)
+- **Python + FastAPI**
+- Publicly hosted on **Azure App Service**
+- Clean REST design with strict validation
+- Designed explicitly to support functional and performance testing
 
-👉 [View the PhoenixAnvil Labs Dev Workflow Documentation](https://jasonasmith.atlassian.net/wiki/external/ODRmNmVkMTMyYjk0NGU3ODkzYmI0ODhiZmExNTBkZDM)
+### 🔹 API Functional Testing
+- **Python + pytest**
+- Validates request/response behavior, status codes, and data integrity
+- Structured for CI execution
+- Tests executed automatically via GitHub Actions
 
-This public Confluence doc walks through how I work with tools like Jira, Tempo, Confluence, GitHub, Sphinx, and Aha! Roadmaps to build professional-grade tools and systems.
+### 🔹 Performance & Load Testing
+- **Grafana k6**
+- Smoke and performance checks with thresholds (p95, error rate)
+- CI-triggered and scheduled workflows
+- Used to understand system behavior, not just chase numbers
+
+### 🔹 CI/CD Orchestration
+- **GitHub Actions**
+- Event-driven workflows
+- Azure deployment followed by automated test orchestration
+- Cross-repo workflow coordination
 
 ---
 
-## 🧰 Recent Tools
+## ⚙️ Core Technologies & Tools
 
-- 🔧 [**Stride**](https://github.com/PhoenixAnvil/stride) – Sprint/Iteration Tracker API  
-- ✏️ [**Scribbly**](https://github.com/PhoenixAnvil/scribbly) – User Story Management API  
-- 🔍 [**Sentinel**](https://github.com/PhoenixAnvil/sentinel) – API Monitoring + Load Testing CLI  
-- 🧵 [**Thumper**](https://github.com/PhoenixAnvil/thumper) – HTTP Ping Tool for APIs  
-- 🔐 [**KeyForge**](https://github.com/PhoenixAnvil/keyforge) – Secure Password Generator CLI
+- 🐍 **Python** (FastAPI, pytest)
+- 🌐 **REST APIs**, HTTP status codes, request/response validation
+- 📊 **Grafana k6** (performance & load testing)
+- ☁️ **Azure App Service**
+- 🔁 **GitHub Actions** (CI/CD & orchestration)
+- 🗃️ **SQL** (data validation & backend verification)
+- 🧪 Manual, exploratory, and risk-based testing
+- 🧠 AI-assisted development workflows (used responsibly as a productivity multiplier)
 
-Each tool is tracked via Jira epics, includes automated and manual testing, and has a roadmap in Aha! with full QA/test alignment.
+---
+
+## 🔍 How I Use AI (Transparently)
+
+I actively explore **AI-assisted workflows** to accelerate:
+- test generation
+- scaffolding
+- exploratory automation
+
+AI helps me move faster — **human judgment owns the strategy, validation, and risk decisions**. Every test and workflow in this portfolio is reviewed, executed, and understood before being kept.
 
 ---
 
 ## 🎯 Current Focus
 
-📚 I’m currently in **certification sprint mode**, preparing for the ISTQB CTFL (QA Certification) scheduled for **April 30, 2025**.  
-Until then, I’ll be in **low-power commit mode**—maintaining my GitHub streak with meaningful but lighter contributions each day.
-
-🛠️ I actively use:
-- **Jira** for issue tracking and sprint management
-- **Confluence** for documentation and knowledge sharing
-- **Aha! Roadmaps** to manage product visions and strategic planning for each tool
-
-> 🚀 My full Jira, Confluence, and Aha! setup is available for walkthroughs or demos upon request—for recruiters, collaborators, and hiring managers.
+- Deepening **API testing and automation** skills
+- Strengthening **performance testing fundamentals**
+- Building **production-style CI/CD pipelines**
+- Improving test reliability, observability, and maintainability
+- Preparing for **ISTQB CTFL** (Spring 2025)
 
 ---
 
-### 🧾 Commit Standards – Conventional Commits
+## 🧠 How I Think About Quality
 
-All repositories under PhoenixAnvil Labs follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification.
-
-We use clear, structured commit messages to:
-- 🧠 Improve readability and project history
-- 📦 Automate changelogs and versioning
-- 🔧 Enable consistent CI/CD workflows
-
-Common commit types include:
-
-- `feat:` – New feature  
-- `fix:` – Bug fix  
-- `docs:` – Documentation only  
-- `test:` – Adding or refactoring tests  
-- `refactor:` – Internal code improvements  
-- `chore:` – Build process, tooling, config  
-- `style:` – Formatting, whitespace, linter changes  
-- `perf:` – Performance improvements  
-
-Example:
-
-```
-feat: add –length flag to CLI for password length
-```
-
-For a full list of types and usage, visit [conventionalcommits.org](https://www.conventionalcommits.org/).
-
----
-
-### 🔢 Versioning Philosophy
-
-All PhoenixAnvil Labs tools follow [Semantic Versioning 2.0.0](https://semver.org/).
-
-We treat versions as a contract with users: predictable, incremental, and clearly communicated.
-
-For release patterns and development workflow, see our [Documentation Portal](https://jasonasmith.atlassian.net/wiki/external/ODRmNmVkMTMyYjk0NGU3ODkzYmI0ODhiZmExNTBkZDM).
-
----
-
-## 📚 What’s Ahead
-
-- 🐧 LPIC-1 Linux Certification (May 28, 2025)
-- 🧪 Deeper QA Automation (Playwright, Selenium, Appium)
-- 🛠️ Building out 50+ Python/FastAPI tools for my portfolio
-- 🚀 PyPI packaging and CLI test frameworks
-- 📦 Real-world CI/CD, GitHub Actions, and versioning
-
----
-
-## 🧠 What Drives Me
-
-- ✅ Real tools > tutorials  
-- ✅ Clean code + logs + tests = confidence  
-- ✅ Progress > perfection  
-- ✅ Sharpening the craft every day
+- ✅ Thoughtful manual testing is foundational
+- ✅ Automation supports insight, not checkbox coverage
+- ✅ Fast feedback beats perfect tooling
+- ✅ Real systems > toy examples
+- ✅ Continuous learning is part of the job
 
 ---
 
 ## 📫 Let’s Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jason-alan-smith)
-- 💬 Want a walkthrough of my development workflow in Jira, Confluence, and Aha!?  
-  Feel free to reach out:  
-  📧 **Jason.Smith@phoenixanvilabs.dev**
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/jason-alan-smith  
+- 💬 Happy to walk through any repo, workflow, or test strategy
+- 📧 **Email:** Jason.Smith@phoenixanvillabs.dev
 
 ---
 
-> Built at **PhoenixAnvil Labs** – Where ideas are forged into tools. 🔥🛠️
+> **PhoenixAnvil Labs**  
+> Forging practical QA skills, one system at a time. 🔥🛠️
